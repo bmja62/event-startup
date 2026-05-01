@@ -10,11 +10,13 @@ The goal of [this assignment project](https://program.hackyourfuture.dk/course-c
 
 ## Repository Structure
 
-This is a monolithic repository containing:
+This repository containing:
 
 * **api** – The server-side API handling business logic, authentication, and data management
 * **database** – PostgreSQL database diagram
 * **postman** – Postman collection of API
+* **requirements** – Contains project requirements
+
 
 ## Notes
 
