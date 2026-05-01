@@ -6,13 +6,13 @@ This is a standalone project where you will build a web application for an event
 
 By the end of this module, you will be able to:
 
-- [ ] Apply your specialism knowledge and skills within a realistic work project
-- [ ] Practice running a full end-to-end project (e.g. planning with trello, through to deployment)
-- [ ] Transform requirements into functional working solutions
-- [ ] Successfully deploy complex services/applications
-- [ ] Overcome technical difficulties, find solutions independently, and know when to reach out and ask for help in a constructive manner
-- [ ] Plan a complex project and deliver it on time
-- [ ] Feel ready to run a similar process for the team final project
+- Apply your specialism knowledge and skills within a realistic work project
+- Practice running a full end-to-end project (e.g. planning with trello, through to deployment)
+- Transform requirements into functional working solutions
+- Successfully deploy complex services/applications
+- Overcome technical difficulties, find solutions independently, and know when to reach out and ask for help in a constructive manner
+- Plan a complex project and deliver it on time
+- Feel ready to run a similar process for the team final project
 
 ## Scenario
 
@@ -38,11 +38,11 @@ Some of the requirements below are already working in the current version of the
 
 Follow the requirements and practices from the [Intro to Agile](/courses/foundation/intro-to-agile/README.md) module.
 
-- [ ] Work as an individual to complete the project by yourself
-- [ ] Use Trello to organise your project tasks and visualise your progress
-- [ ] Define all of your tasks clearly using Trello cards
-- [ ] Create and prioritise your tasks at the start of each week, to have a clear idea of what will be required in that sprint
-- [ ] Submit a single pull request at the end of each sprint to be reviewed by your mentors.
+- Work as an individual to complete the project by yourself
+- Use Trello to organise your project tasks and visualise your progress
+- Define all of your tasks clearly using Trello cards
+- Create and prioritise your tasks at the start of each week, to have a clear idea of what will be required in that sprint
+- Submit a single pull request at the end of each sprint to be reviewed by your mentors.
 
 ## Project delivery
 
@@ -50,10 +50,11 @@ These are the final deliverables that you should submit by the end-of-project de
 
 Links to the following:
 
-- [ ] Trello board
-- [ ] GitHub repo
-- [ ] Database schema with ERD
-- [ ] Deployed API documentation
-- [ ] Deployed API service
-- [ ] Deployed PostgreSQL database
-- [ ] Postman collection
+- Trello board
+- GitHub repo
+- Database schema with ERD
+- Postman collection
+
+- Deployed API documentation
+- Deployed API service
+- Deployed PostgreSQL database
