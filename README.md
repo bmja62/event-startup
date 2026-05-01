@@ -12,9 +12,9 @@ The goal of [this assignment project](https://program.hackyourfuture.dk/course-c
 
 This is a monolithic repository containing:
 
-* **frontend** – The client-side application for users to view events and buy tickets
-* **backend** – The server-side API handling business logic, authentication, and data management
-* **database** – PostgreSQL database configuration and schema
+* **api** – The server-side API handling business logic, authentication, and data management
+* **database** – PostgreSQL database diagram
+* **postman** – Postman collection of API
 
 ## Notes
 
