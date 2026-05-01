@@ -6,7 +6,7 @@ This project is based on a [template repository](https://github.com/HackYourFutu
 
 ## Project Overview
 
-The goal of [this project](https://program.hackyourfuture.dk/course-content/backend/events-startup-project) is to build and enhance a full-stack ticketing platform, implementing both required features and additional improvements. It serves as a practical, end-to-end development project covering planning, development, and deployment.
+The goal of [this assignment project](https://program.hackyourfuture.dk/course-content/backend/events-startup-project) is to build and enhance a full-stack ticketing platform, implementing both required features and additional improvements. It serves as a practical, end-to-end development project covering planning, development, and deployment.
 
 ## Repository Structure
 
@@ -18,4 +18,4 @@ This is a monolithic repository containing:
 
 ## Notes
 
-This project is developed as an individual assignment and follows agile practices, including task management and sprint-based development.
+This project is developed as an individual assignment and follows agile practices, including [task management](https://github.com/users/bmja62/projects/8) and sprint-based development.
