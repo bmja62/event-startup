@@ -18,4 +18,4 @@ This is a monolithic repository containing:
 
 ## Notes
 
-This project is developed as an individual assignment and follows agile practices, including [task management](https://github.com/users/bmja62/projects/8) and sprint-based development.
+This project is developed as an individual assignment and follows agile practices, including [task management](https://github.com/users/ftshn84/projects/4) and sprint-based development.
