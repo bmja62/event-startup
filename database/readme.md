@@ -1,8 +1,4 @@
-# Event Database Schema
-
-This repository contains the database schema for managing events.
-
-## 📊 Entity Relationship Diagram (ERD)
+## Entity Relationship Diagram (ERD)
 
 ```mermaid
 erDiagram
